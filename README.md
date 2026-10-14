@@ -1,6 +1,6 @@
 # Texto SMS — Python SDK
 
-Official Python SDK for the [Texto](https://texto.com.au) SMS API. Send SMS to
+Official Python SDK for the Texto [SMS API](https://texto.com.au). Send SMS to
 Australian and New Zealand numbers, read replies, and manage sub-accounts,
 numbers, credits, API keys, webhooks and reporting.
 
@@ -131,7 +131,7 @@ Network failures and timeouts raise `TextoConnectionError`.
 
 ## Support
 
-- API reference: https://texto.com.au/developers
+- [SMS API reference](https://texto.com.au/api): https://texto.com.au/api
 - Email: support@texto.com.au
 
 ## License
